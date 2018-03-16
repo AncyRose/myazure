@@ -1,0 +1,2 @@
+# myazure
+test application
